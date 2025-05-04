@@ -28,9 +28,9 @@ const Footer: FC = () => {
       </div>
       <div className="flex flex-col align-center md:w-auto    gap-4">
         
-        {/* <a className="button text-center" href="mailto:alenakopsik@gmail.com">
+        <a className="button text-center" href="emailto:alenakopsik@gmail.com">
         alenakopsik@gmail.com
-        </a> */}
+        </a>
 
         <a className="button text-center" href="tel:+375 29 3394 628">
           +375 29 3394 628
