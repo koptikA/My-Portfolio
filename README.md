@@ -15,7 +15,7 @@ If you are developing a production application, we recommend updating the config
 
 ```js
 export default {
-  //другие правила
+ 
   parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module',
