@@ -186,7 +186,7 @@ const experiences = [
   {
     name: "ExLab Start Up",
     description: "Frontend Developer & UI/UX Designer — Collaborated in a fast-paced team environment to design and develop a functional MVP.",
-    time: "NOV 2023 Aug 2024"
+    time: "Nov 2023 Aug 2024"
   },
   {
     name: "OOO «Гарантбилдинг»",
