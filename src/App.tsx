@@ -176,12 +176,12 @@ const experiences = [
   {
     name: "NeoXonline",
     description: "UI/UX Designer — Collaborated in a fast-paced team.",
-    time: "NOV 2023 Aug 2024"
+    time: "Aug 2024 Nov 2024"
   },
   {
     name: "InnoDom",
     description: "Frontend Developer — Stack: JavaScript, React, Redux, TypeScript, CSS, HTM.",
-    time: "Jul 2023 — APR 2024"
+    time: "Jul 2023 — Apr 2024"
   },
   {
     name: "ExLab Start Up",
