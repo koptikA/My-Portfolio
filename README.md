@@ -1,30 +1,7 @@
-# React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
- 
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- 👋 Hi, I’m Helen
+- 👀 I’m interested in building meaningful digital experiences that are both beautiful and usable  
+- 🌱 I’m currently learning more about animation in React, design systems, and accessibility best practices  
+- 💞️ I’m looking to collaborate on creative products, dashboards, and tools that make people’s lives easier  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alena-koptsik-14b757224/) • [Telegram](@Helenakoptik) • Email me at alenakopsik@gmail.com  
+- 😄 Pronouns: she/her  
+- ⚡ Fun fact: I can redesign your app *and* create a design it before you finish your coffee ☕  
