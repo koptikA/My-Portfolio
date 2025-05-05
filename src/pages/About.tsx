@@ -16,7 +16,8 @@ const About: FC = () => {
         text="I’m UI/UX designer with over three years of experience in creating visually stunning and user-friendly designs. I specialize in web design, branding, UI/UX, and motion, bringing ideas to life through creativity and thoughtful design solutions.
 In addition to design, I’m diving into frontend development, expanding my skill set to bridge the gap between aesthetics and functionality. My goal is to craft seamless, engaging, and interactive digital experiences that not only look great but also feel intuitive to users.
 Every project I take on is a mix of strategy, innovation, and attention to detail—whether it’s designing a sleek website, crafting a unique brand identity, or adding motion to enhance storytelling.
-<br>Let’s create something amazing together!"
+
+  Let’s create something amazing together!"
       />
       <GradientText heading="My Skills">
         <motion.div
