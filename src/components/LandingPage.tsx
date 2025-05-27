@@ -1,18 +1,18 @@
-import React, {useEffect} from 'react'
+import React, { useEffect } from "react";
 import AnimatedText from "../components/AnimatedText";
 import ResumeBtn from "../components/ResumeBtn";
 import { navLinks, scaleAnimation } from "../lib/framer-motion-utils";
 import { motion } from "framer-motion";
-import { scrollToTop } from '../lib/utils';
-import resume from "../assets/CV ALENA KOPTSIK WEB DESIGNER & FRONTEND DEVELOPER (1).pdf"
+import { scrollToTop } from "../lib/utils";
+import resume from "../assets/CV ALENA KOPTSIK.pdf";
 type MyComponentProps = {
   heading: string;
   text: string;
-}
+};
 const LandingPage: React.FC<MyComponentProps> = ({ heading, text }) => {
-    useEffect(() => {
-        scrollToTop()
-    }, [])
+  useEffect(() => {
+    scrollToTop();
+  }, []);
   return (
     <motion.section
       initial="hidden"
@@ -35,12 +35,18 @@ const LandingPage: React.FC<MyComponentProps> = ({ heading, text }) => {
         {text}
       </motion.h2>
 
-      <motion.a href={resume}  download="CV Alena Koptsik Web Designer"  target="_blank"
-            rel="noopener noreferrer" variants={scaleAnimation} className="resume_btn">
+      <motion.a
+        href={resume}
+        download="CV Alena Koptsik Web Designer"
+        target="_blank"
+        rel="noopener noreferrer"
+        variants={scaleAnimation}
+        className="resume_btn"
+      >
         <ResumeBtn />
       </motion.a>
     </motion.section>
   );
-}
+};
 
 export default LandingPage;
