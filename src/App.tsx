@@ -70,7 +70,8 @@ function App() {
       description: "Agent stats, income & growth hub (Web + Mobile)",
       technologies: ["Figma"],
       filters: "Web",
-      liveUrl: "https://w24.agency/",
+      liveUrl:
+        "https://apps.apple.com/us/app/welcome24/id6747892521?platform=iphone",
       figmaUrl:
         "https://www.figma.com/design/lD9GPWViVXI9zQHDoQGJiH/Alena-Koptsik?node-id=28-1367&t=RdgJCPIcY619KwXw-1",
     },
