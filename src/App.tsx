@@ -19,6 +19,7 @@ import karkasvorotImg from "./assets/KARKASVOROT.png";
 import gameImg from "./assets/GAME.png";
 import k1Img from "./assets/K1.png";
 import W24 from "./assets/W24.png";
+import U from "./assets/U.png";
 import AfterEffectImg from "./assets/After Effects.png";
 import figmaImg from "./assets/Figma.png";
 import illustratorImg from "./assets/Illustrator.png";
@@ -52,6 +53,17 @@ function App() {
     corelImg,
   ];
   const projects = [
+    {
+      name: "Uniprompt",
+      imgUrl: U,
+      description:
+        "Online platform that connects IT specialists and AI services.",
+      technologies: ["Figma"],
+      filters: "Web",
+      liveUrl: "https://uniprompt.org/",
+      figmaUrl:
+        "https://www.figma.com/design/xi2kkBKcfzuVP3x1LnjM95/Uniprompt--Portfolio-?node-id=4003-34610&t=HXMYraWzVXKuSt0O-1",
+    },
     {
       name: "Welcome for Business",
       imgUrl: W24,
